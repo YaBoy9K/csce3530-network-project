@@ -35,7 +35,7 @@ The Router-Firewall-VM provides routing, NAT, and firewall forwarding between th
 ## Repository Structure
 
 ```text
-docs/
+doc/
   Final report PDF, editable DOCX, and topology diagram
 
 configs/
