@@ -1,0 +1,13 @@
+$TTL    604800
+@       IN      SOA     ns.office.local. admin.office.local. (
+                        2026070701
+                        604800
+                        86400
+                        2419200
+                        604800 )
+
+@       IN      NS      ns.office.local.
+ns      IN      A       192.168.10.10
+server  IN      A       192.168.10.10
+www     IN      A       192.168.10.10
+router  IN      A       192.168.10.1
